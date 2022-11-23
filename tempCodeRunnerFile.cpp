@@ -1,2 +1,0 @@
-
-void metpersecTokmperhour(float n);
